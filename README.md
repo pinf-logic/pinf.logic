@@ -106,20 +106,6 @@ The same logic pattern only exists in the one place within a *System*. It gets r
 Plugin: [pinf.logic-for-source-logic](https://github.com/pinf-logic/pinf.logic-for-source-logic)
 
 
-#### Logic Source
-
-The *Link* from a referenced *Source Logic* instance to the original *Source Logic* entity.
-
-Plugin: [pinf.logic-for-source-logic](https://github.com/pinf-logic/pinf.logic-for-source-logic)
-
-
-#### Link
-
-The *Mapping* that connects two *Nodal* *Contexts*.
-
-Plugin: [pinf.logic-for-source-link](https://github.com/pinf-logic/pinf.logic-for-source-link)
-
-
 #### Context
 
 The *Mapping* of our *Node* to one or more other *Nodes* and their *Mappings* to further *Nodes* up to a *Limit*.
